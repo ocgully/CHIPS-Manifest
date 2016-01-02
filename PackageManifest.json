@@ -1,0 +1,12 @@
+{
+	"Packages": [
+		{
+			"PackageId": "CHIPS",
+			"PackageInfoURL": "https://raw.githubusercontent.com/ocgully/CHIPS/master/PackageInfo.json"
+		},
+		{
+			"PackageId": "PackageTemplate",
+			"PackageInfoURL": "https://raw.githubusercontent.com/ocgully/CHIPS-PackageTemplate/master/PackageInfo.json"
+		}					
+	]
+}
